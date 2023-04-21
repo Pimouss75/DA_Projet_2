@@ -103,10 +103,10 @@ De quelles compétences as-tu le plus besoin : statistiques, programmation, base
 
 Quelle importance accordes-tu à la connaissance du domaine dans lequel tu travailles (du “métier” de ton entreprise) dans l’analyse des données?
 
+À ton avis, comment peut-on améliorer notre société avec la data ? Crois-tu qu'il en existe un aspect "social" ?
+
 ### Compétences évaluées
 
 Interpréter et donner un regard critique sur des données graphiques
 
 Appréhender le métier de Data Analyst
-
-À ton avis, comment peut-on améliorer notre société avec la data ? Crois-tu qu'il en existe un aspect "social" ?
