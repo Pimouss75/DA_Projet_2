@@ -1,0 +1,24 @@
+Mémo :
+
+Mr Dubois,
+
+Une anomalie est apparue sur le compteur de visite en temps réel, le compteur affiche zéro visiteur depuis 2:55 ce matin, je viens d’aller sur notre site de vente en ligne, tout a l’air de fonctionner correctement.
+
+Les causes possibles de cettes anomalie sont, par ordre croissant de probabilité:
+
+-Un problème avec le serveur (je viens de m’y connecter !?)
+
+-Lors de la mise en production du site, l’équipe en charge a peut-être oublié de reconnecter l’élément « compteur de visites ».
+
+-L’outil de visualisation des visites sur le site est défaillant.
+
+J’ai contacté cecile, chef de projet digital, elle va vérifier que ce ne soit pas un bug ou un oubli. L’équipe de développeurs a été prévenue.
+
+Je vous contact dès que j’ai du nouveau.
+
+Marc Sellam
+Data Analyste
+
+
+
+ps:j ai verifé que le site foncionne en effectuant un achat et en verifiant qu il bien ete pris en compte au service expedition.

@@ -1,0 +1,25 @@
+Bonjour à tous,
+
+Dans le cadre du projet 2, voici la transcription de l'interview de mon mentor Guillaume, que je salue au passage :
+
+-Pourrais-tu me résumer ton parcours scolaire et professionnel ?
+
+J'ai fait un bac S option maths, ensuite j'ai fait une prépa maths et je suis allé à l'école normale supérieur au département d'informatique pendant les deux premières années et la dernière année j'étais au département mathématique et c'est là que j'ai commencé à faire du machine learning car c'était un master de mathématiques vision et apprentissage.J'ai continué en faisant un stage au CEA en deep learning et continué ma thèse.
+
+-Quel est ton poste actuel, pourquoi ce choix ?
+
+J'ai toujours été très intéressé par l'informatique, l'intelligence artificielle et le machine learning, ce sont des matières qui m'ont toujours passionnées.Je fais actuellement une thèse sur le machine learning.
+
+-Le métier de data analyste doit il s'inquiéter du machine learning?
+
+Je ne pense pas, parce que pour l'instant une machine ne peut choisir quelles informations vont être les plus pertinentes, de plus, le traitement des données ne peut être effectuée que par un data analyste, du moins à court terme.
+
+-Quelles sont d'après toi les limites du machine learning ?
+
+Contrairement au cerveau, il n'existe pas d'algorithme qui puisse résoudre n'importe quelle tache de manière générale. Il existe des applications de machine learning dans pleins de domaines, mais cela ne fonctionne pas forcement bien en pratique, en raison des limites telles que des données insuffisantes ou une problématique mal posée.
+
+-L'analyse des données te parait-elle primordiale pour assurer la pérennité d'une entreprise ?
+
+Evidemment, il faut comprendre les données dans un premier temps, puis les interpréter pour aider à prendre des décisions.Cependant le métier de data analyste ne se limite pas à cela.
+
+A bientôt.
